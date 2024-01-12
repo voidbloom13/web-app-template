@@ -1,0 +1,12 @@
+#Root {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  width: 100vw;
+}
+
+.default-text {
+  align-self: center;
+  margin: 0 auto;
+}
